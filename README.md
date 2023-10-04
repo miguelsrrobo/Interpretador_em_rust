@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://github.com/miguelsrrobo/Interpretador_em_rust/blob/main/banner.png" alt="Rinha logo" width="50%" />
+  <img src="https://github.com/miguelsrrobo/Interpretador_em_rust/blob/main/banner.png" alt="Rinha logo" width="100%" />
 </p>
 
 # Interpretador em rust para o Rinha de compiladores
