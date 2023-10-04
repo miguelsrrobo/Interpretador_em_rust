@@ -16,14 +16,15 @@ https://www.youtube.com/live/FbCdhicY3sk
 
 O ideal da rinha é fazer um interpretador ou compilador que rode em uma maquina com 2 núcleos e 2G de RAM.
 
-O seu interpretador ou compilador deve trabalhar com algo chamado "árvore sintática abstrata" que está armazenada no formato JSON. Essa árvore sintática abstrata será gerada por nós usando uma ferramenta específica disponível neste repositório.
+O interpretador ou compilador deve trabalhar com "árvore sintática abstrata" que está armazenada no formato JSON. Essa árvore sintática abstrata foi gerada pelos organizadores do Rinha usando uma ferramenta específica disponível no repositorio do [Rinha de Compiladores](https://github.com/aripiprazole/rinha-de-compiler/tree/main)..
 
-Sua responsabilidade na tarefa é receber esse JSON que contém a árvore abstrata e, em seguida, interpretar ou compilar o programa de acordo com as informações fornecidas na árvore abstrata.
+A responsabilidade na tarefa é receber esse JSON que contém a árvore abstrata e, em seguida, interpretar ou compilar o programa de acordo com as informações fornecidas na árvore abstrata.
 
 Simplificando:
 
-* Nós te damos um JSON com uma árvore dentro
-* Voce roda o JSON
-* Voce fica feliz que apareceu o resultado.
+* Foi disponibilizado um JSON com uma árvore dentro
+* Foi roda o JSON
 
+# Como foi testado
 
+Para testar o programa foi usado o arquivo files/fib.rinha e gerar com o programa que foi disponibilizado para um JSON ou poderia usar diretamente o JSON que está em files/fib.json.
