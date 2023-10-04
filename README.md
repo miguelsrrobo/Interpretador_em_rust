@@ -1,4 +1,8 @@
-# Interpretador em rust do Rinha de compiladores
+<p align = "center">
+  <img src="https://github.com/miguelsrrobo/Interpretador_em_rust/blob/main/banner.png" alt="Rinha logo" width="50%" />
+</p>
+
+# Interpretador em rust para o Rinha de compiladores
 
 Esse projeto é uma implementação para a primeira [Rinha de Compiladores](https://github.com/aripiprazole/rinha-de-compiler/tree/main).
 
